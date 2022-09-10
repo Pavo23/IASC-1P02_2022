@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <title> IASC 1P02 - Lab 1 </title>
+  </head>
+  <body>
+  	<center>
+    <strong>IASC</strong>
+    <font color="red">1P02 is</font>
+    <em>sweet?</em>
+    </center>
+    <p></p>
+    <img src="https://cdn.pixabay.com/photo/2016/12/13/00/13/rabbit-1903016_1280.jpg" alt="Brown Bunny" />
+    <p></p>
+    <img src="Images/Bunny.jpg" alt="Grey Bunny" />
+    <h3>Where do you find bunnies?</h3>
+    <ol>
+      <li>In the wild</li>
+      <li>In your backyard</li>
+      <li>At the pet store</li>
+    </ol>
+    <p></p>
+    <h3>What would you name your pet bunny?</h3>
+    <ul>
+      <li>Harry</li>
+      <li>Roger</li>
+      <li>Peter</li>
+    </ul>
+    <p></p>
+    <table width="200" height="200" border="1">
+      <tr>
+        <td width="100" height="100">top left cell</td>
+        <td width="100" height="100">top right cell</td>
+      </tr>
+      <tr>
+        <td colspan="2">bottom spanned cell</th>
+      </tr>
+    </table>
+    <p></p>
+    <table width="200" height="200" border="1">
+      <tr>
+        <td width="100" height="100">top left cell</td>
+        <td rowspan="2">right spanned cell</th>
+      </tr>
+      <tr>
+        <td width="100" height="100">bottom left cell</td>
+      </tr>
+    </table>
+  </body>
+</html>
