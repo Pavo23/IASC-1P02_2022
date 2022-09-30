@@ -1,0 +1,32 @@
+p{
+  border: 1px purple dotted;
+  text-align: center;
+  margin: 30px;
+  padding-top: 200px;
+  padding-bottom: 20px;
+}
+
+h5{
+  color: green;
+  text-align: center;
+  margin:-30px;
+}
+
+h1{
+  margin-top: 40px;
+  color: orange
+}
+
+#redText{
+  color: red;
+}
+
+
+#yellowText{
+  color: yellow;
+}
+
+h6{
+  color: purple;
+  text-align: right;
+}

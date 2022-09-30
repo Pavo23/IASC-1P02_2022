@@ -1,0 +1,26 @@
+p{
+  color: red;
+  border: 1px green dashed;
+  margin: 10px;
+  padding-left: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+img{
+  border-style: dashed;
+  border-color: yellow;
+  width: 150px;
+  padding: 15px;
+}
+
+body{
+  background-color: blue;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+div{
+  border: 3px solid black;
+}

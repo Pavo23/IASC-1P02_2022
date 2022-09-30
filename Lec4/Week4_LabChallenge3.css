@@ -1,0 +1,38 @@
+body{
+  background-color: black
+}
+
+.white{
+  background-color: white;
+  margin-top: 50%;
+}
+
+div{
+  background-color: green;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.border{
+  border-style: dotted;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: -10px
+}
+
+.red{
+  color: red;
+  padding-left: 10px;
+  padding-bottom: 20px;
+}
+
+.green{
+  color: darkgreen;
+  padding-left: 10px;
+  padding-bottom: 15px;
+}
+
+p{
+  color: purple;
+  margin-bottom: -20px;
+}
