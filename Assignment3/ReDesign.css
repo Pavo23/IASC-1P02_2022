@@ -22,8 +22,6 @@ wrapper{
 /* container holding the photo and the text*/
 .Home_wrap {
   position: relative;
-  text-align: center;
-  color: #FDFFFC;
 }
 
 .Home_bg {
