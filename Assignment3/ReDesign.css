@@ -1,0 +1,80 @@
+wrapper{
+	width:600px;
+  margin:0 auto;
+}
+
+/*navigation bar*/
+.topnav {
+  background-color: #FDFFFC;
+  overflow: hidden;
+}
+
+/* links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 18px 26px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* container holding the photo and the text*/
+.Home_wrap {
+  position: relative;
+  text-align: center;
+  color: #FDFFFC;
+}
+
+.Home_bg {
+  opacity: 0.4;
+  width: 600px;
+}
+
+.Welcome {
+  position: absolute;
+  bottom: 48px;
+  left:16px;
+  text-align: left;
+  font-size: 20px;
+  color: #E71D36;
+}
+
+.btnA{
+  background-color: #011627;
+  color: white;
+}
+
+.btnB{
+  border: 1px black solid;
+}
+
+/*Footer*/
+.bottom{
+  display: inline-block;
+  background-color: #011627;
+  width: 600px;
+  height: 80px;
+}
+
+.box{
+  display:inline-block;
+  width: 100px;
+  height: 80px;
+  background-color: orange;
+}
+
+#logo{
+  color: white;
+}
+
+#menu{
+  color: white;
+  margin-left: 20px;
+  width: 150px;
+}
+
+#sub{
+  color: white;
+  float: right;
+}
